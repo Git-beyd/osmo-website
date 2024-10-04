@@ -131,3 +131,6 @@ Check out the [expansion pack repository](https://github.com/theodorusclarence/e
 ### App Router Update
 
 Due to App Router update, the expansion pack is currently **outdated**. It will be updated in the future. You can still use them by copy and pasting the files.
+
+website to clone: https://www.extendago.com/
+
